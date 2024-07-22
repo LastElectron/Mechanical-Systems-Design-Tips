@@ -19,12 +19,3 @@ Gain insights from real-world learning experiences:
 
 - **Udemy Courses**: Recommended courses like "Finite Element Analysis with MATLAB & ANSYS" on [Udemy](https://www.udemy.com/course/finite-element-analysis-with-matlab-and-ansys-beam-structures/).
 - **MATLAB Onramp Insights**: Learn how to start with MATLAB basics and build a solid foundation.
-
-## How to Get Started
-
-### Clone the Repository
-
-Clone this repository to your local machine using the following command:
-
-```bash
-git clone https://github.com/your-username/matlab-learning-resources.git
