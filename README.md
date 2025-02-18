@@ -1,6 +1,6 @@
 # Learning MATLAB: Resources and Tutorials
 
-Welcome to the repository dedicated to learning MATLAB, curated by [Your Name]. Here, you'll find essential resources and tutorials to master MATLAB, covering everything from official documentation to personal learning experiences and practical guides.
+Welcome to the repository dedicated to learning MATLAB. Here, you'll find essential resources and tutorials to master MATLAB, covering everything from official documentation to personal learning experiences and practical guides.
 
 ## Contents
 
